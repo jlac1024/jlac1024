@@ -7,7 +7,7 @@ modern systems.
 
 - **Tools:** utilities and developer tools, including HL7 messaging,
   integration and data tools for healthcare
-- **Games:** bringing older games to Linux, Windows and macOS
+- **Games:** bringing older games to Linux, Windows, and macOS
 - **Platforms:** Linux first
 - **Get in touch:** open an issue on any of my projects
 
