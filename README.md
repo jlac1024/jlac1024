@@ -1,4 +1,4 @@
-# Hi there
+# Hi, thanks for stopping by
 
 I make free, open-source software: developer tools and utilities,
 including tools for healthcare data and interoperability (HL7 and
