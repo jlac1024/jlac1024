@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there
 
-<!--
-**jlac1024/jlac1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make free, open-source software: developer tools and utilities,
+including tools for healthcare data and interoperability (HL7 and
+related standards), and projects that keep classic games playable on
+modern systems.
 
-Here are some ideas to get you started:
+- **Tools:** utilities and developer tools, including HL7 messaging,
+  integration and data tools for healthcare
+- **Games:** bringing older games to Linux, Windows and macOS
+- **Platforms:** Linux first
+- **Get in touch:** open an issue on any of my projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Support
+
+If my work is useful to you, you can support it on Ko-fi:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jlac1024)
